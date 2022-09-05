@@ -1,8 +1,9 @@
 import RepositoryItem from "../RepositoryItem"
+import './styles.scss'
 
 export default function RepositoryList(){
     const repository = {
-        name: "My name",
+        name: "oi",
         description: "Forms in React",
         link: 'https://github.com/unform/unform'
     }
