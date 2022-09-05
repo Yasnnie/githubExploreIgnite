@@ -1,5 +1,6 @@
+import RepositoryList from './components/RepositoryList'
 import './styles/global.scss'
 
 export function App(){
-    return <h1> yasmin</h1>
+    return <RepositoryList />
 }
